@@ -17,6 +17,15 @@ I am a Data Analyst and aspiring Data Scientist with a passion for turning data 
 - **Analytical Skills:**
   ![Analytical Skills](https://img.shields.io/badge/Analytical_Skills-555555?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wcAAv8BKukomHgAAAAASUVORK5CYII=)
 
+## 🚀 Projects
+
+Here are some of my favorite projects:
+
+- **[Project 1](https://github.com/codingbhaiya-data/Healthcare-Analysis):** Healthcare-Analysis :- This project aims to develop a dashboard that provides detailed insights into various financial and clinical metrics, enabling Apollo Hospitals to make data-driven decisions to enhance patient care and operational efficienc.
+- **[Project 2](https://github.com/codingbhaiya-data/E--commers-sales-analysis):** E-commers-sales-analysis :- This data analysis project aims to provide insights into a sales performance of e-commers comapany over the past years. by analysing various aspects of the sales data, we seek to identify trends, make a data driven recommandation, and a gain a deeper understaning of the company's perfomance.
+- **[Project 3](https://github.com/codingbhaiya-data/HR-Analytics-Dashboard):** HR-Analytics:- This HR Analytics Dashboard provides a comprehensive analysis of employee attrition within an organization, enabling HR professionals to identify patterns, understand underlying causes, and develop effective retention strategies..
+
+
 ## 📊 GitHub Stats
 
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingbhaiya-data&show_icons=true&theme=radical)
@@ -33,13 +42,6 @@ I am a Data Analyst and aspiring Data Scientist with a passion for turning data 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingbhaiya-data&layout=compact&theme=radical)
 
-## 🚀 Projects
-
-Here are some of my favorite projects:
-
-- **[Project 1](https://github.com/codingbhaiya-data/Healthcare-Analysis):** Healthcare-Analysis :- This project aims to develop a dashboard that provides detailed insights into various financial and clinical metrics, enabling Apollo Hospitals to make data-driven decisions to enhance patient care and operational efficienc.
-- **[Project 2](https://github.com/codingbhaiya-data/E--commers-sales-analysis):** E-commers-sales-analysis :- This data analysis project aims to provide insights into a sales performance of e-commers comapany over the past years. by analysing various aspects of the sales data, we seek to identify trends, make a data driven recommandation, and a gain a deeper understaning of the company's perfomance.
-- **[Project 3](https://github.com/codingbhaiya-data/HR-Analytics-Dashboard):** HR-Analytics:- This HR Analytics Dashboard provides a comprehensive analysis of employee attrition within an organization, enabling HR professionals to identify patterns, understand underlying causes, and develop effective retention strategies..
 
 ## 💬 Connect with me
 
