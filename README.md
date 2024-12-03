@@ -37,18 +37,19 @@ I am a Data Analyst and aspiring Data Scientist with a passion for turning data 
 
 Here are some of my favorite projects:
 
-- **[Project 1](https://github.com/codingbhaiya-data/Healthcare-Analysis):** This project aims to develop a dashboard that provides detailed insights into various financial and clinical metrics, enabling Apollo Hospitals to make data-driven decisions to enhance patient care and operational efficiency..
-- **[Project 2](https://github.com/codingbhaiya-data/E--commers-sales-analysis):** Brief description of project 2.
-- **[Project 3](https://github.com/codingbhaiya-data/HR-Analytics-Dashboard):** This HR Analytics Dashboard provides a comprehensive analysis of employee attrition within an organization, enabling HR professionals to identify patterns, understand underlying causes, and develop effective retention strategies..
+- **[Project 1](https://github.com/codingbhaiya-data/Healthcare-Analysis):** Healthcare-Analysis :- This project aims to develop a dashboard that provides detailed insights into various financial and clinical metrics, enabling Apollo Hospitals to make data-driven decisions to enhance patient care and operational efficienc.
+- **[Project 2](https://github.com/codingbhaiya-data/E--commers-sales-analysis):** E-commers-sales-analysis :- This data analysis project aims to provide insights into a sales performance of e-commers comapany over the past years. by analysing various aspects of the sales data, we seek to identify trends, make a data driven recommandation, and a gain a deeper understaning of the company's perfomance.
+- **[Project 3](https://github.com/codingbhaiya-data/HR-Analytics-Dashboard):** HR-Analytics:- This HR Analytics Dashboard provides a comprehensive analysis of employee attrition within an organization, enabling HR professionals to identify patterns, understand underlying causes, and develop effective retention strategies..
 
 ## 💬 Connect with me
 
 - ![[LinkedIn](https://www.linkedin.com/in/rohit-raut-53588b19b/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+- ![[novypro](https://www.novypro.com/manage_projects/rohit-raut-)](https://img.shields.io/badge/novypro-1DA1F2?style=for-the-badge&logo=novypro&logoColor=white)
+- ![[Instagram](https://www.instagram.com/the_sanguine_/profilecard/?igsh=eDVqZmFza2xzMmV0)](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=Instagram&logoColor=white)
 
 ## 🎉 Fun Facts
 
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m Passionate Data enthusiast.
 - 💬 Ask me about SQL, Power BI, Excel, or Python.
 - ⚡ Fun fact: I love exploring new data sets and discovering hidden insights.
 
