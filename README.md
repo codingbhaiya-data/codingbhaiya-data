@@ -51,7 +51,7 @@ Here are some of my favorite projects:
 
 - 🌱 I’m Passionate Data enthusiast.
 - 💬 Ask me about SQL, Power BI, Excel, or Python.
-- ⚡ Fun fact: I love exploring new data sets and discovering hidden insights.
+- ⚡ Fun fact: glamorous part of the job might be finding insights and creating stunning visualizations, the real magic often happens during the data cleaning phase!
 
 ![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
