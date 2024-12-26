@@ -49,7 +49,7 @@ Here are some of my favorite projects:
 - ![[novypro](https://www.novypro.com/manage_projects/rohit-raut-)](https://img.shields.io/badge/novypro-1DA1F2?style=for-the-badge&logo=novypro&logoColor=white)
 - ![[Instagram](https://www.instagram.com/the_sanguine_/profilecard/?igsh=eDVqZmFza2xzMmV0)](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=Instagram&logoColor=white)
 
-## 🎉 Fun Facts
+## 🎉 Facts
 
 - 🌱 I’m Passionate Data enthusiast.
 - 💬 Ask me about SQL, Power BI, Excel, or Python.
